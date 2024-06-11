@@ -2,8 +2,8 @@
 
 ## Summary
 
-:green_square: No security risk
-:yellow_square: Potential security risk
+:green_square: No security risk\
+:yellow_square: Potential security risk\
 :red_square: Major security risk
 
 | Name | Status | Notes |
