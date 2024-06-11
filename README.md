@@ -2,6 +2,10 @@
 
 ## Summary
 
+:green_square: No security risk
+:yellow_square: Potential security risk
+:red_square: Major security risk
+
 | Name | Status | Notes |
 | :--- | :---: | :--- |
 | [`neovim/nvim-lspconfig@4d38bec`](https://github.com/neovim/nvim-lspconfig/tree/4d38bece98300e3e5cd24a9aa0d0ebfea4951c16) | :green_square: | |
